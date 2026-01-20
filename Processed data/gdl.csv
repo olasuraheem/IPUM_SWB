@@ -1,0 +1,77 @@
+Country,Continent,ISO_Code,Level,GDLCODE,Region,Year,GVI,fullsci,gini
+Nigeria,Africa,NGA,National,NGAt,Total,2016,72.8,38.8,0.29
+Nigeria,Africa,NGA,National,NGAt,Total,2021,68.2,44.1,0.28
+Nigeria,Africa,NGA,Subnat,NGAr122,Abia,2016,64.2,34.4,0.19
+Nigeria,Africa,NGA,Subnat,NGAr122,Abia,2021,63.9,36.5,0.19
+Nigeria,Africa,NGA,Subnat,NGAr137,Abuja FCT,2016,55.8,33.2,0.21
+Nigeria,Africa,NGA,Subnat,NGAr137,Abuja FCT,2021,52.8,40.4,0.21
+Nigeria,Africa,NGA,Subnat,NGAr108,Adamawa,2016,79.9,41.9,0.27
+Nigeria,Africa,NGA,Subnat,NGAr108,Adamawa,2021,77.1,53.3,0.32
+Nigeria,Africa,NGA,Subnat,NGAr101,Akwa Ibom,2016,67.5,41.6,0.22
+Nigeria,Africa,NGA,Subnat,NGAr101,Akwa Ibom,2021,71.9,35.1,0.24
+Nigeria,Africa,NGA,Subnat,NGAr102,Anambra,2016,56.3,35,0.18
+Nigeria,Africa,NGA,Subnat,NGAr102,Anambra,2021,50.2,39.1,0.16
+Nigeria,Africa,NGA,Subnat,NGAr103,Bauchi,2016,89.1,44.8,0.35
+Nigeria,Africa,NGA,Subnat,NGAr103,Bauchi,2021,88.3,47.1,0.3
+Nigeria,Africa,NGA,Subnat,NGAr131,Bayelsa,2016,69.2,31.4,0.25
+Nigeria,Africa,NGA,Subnat,NGAr131,Bayelsa,2021,67.2,42.4,0.25
+Nigeria,Africa,NGA,Subnat,NGAr105,Benue,2016,78,40.3,0.3
+Nigeria,Africa,NGA,Subnat,NGAr105,Benue,2021,76.1,47,0.34
+Nigeria,Africa,NGA,Subnat,NGAr106,Borno,2016,78.2,42.7,0.32
+Nigeria,Africa,NGA,Subnat,NGAr106,Borno,2021,76.9,51,0.27
+Nigeria,Africa,NGA,Subnat,NGAr107,Cross River,2016,72.4,38,0.29
+Nigeria,Africa,NGA,Subnat,NGAr107,Cross River,2021,73,38.9,0.3
+Nigeria,Africa,NGA,Subnat,NGAr123,Delta,2016,61.9,37.8,0.22
+Nigeria,Africa,NGA,Subnat,NGAr123,Delta,2021,61.4,35.6,0.23
+Nigeria,Africa,NGA,Subnat,NGAr132,Ebonyi,2016,73.9,40.1,0.29
+Nigeria,Africa,NGA,Subnat,NGAr132,Ebonyi,2021,55.8,36.5,0.24
+Nigeria,Africa,NGA,Subnat,NGAr104,Edo,2016,63.1,36.1,0.22
+Nigeria,Africa,NGA,Subnat,NGAr104,Edo,2021,55.4,38.8,0.18
+Nigeria,Africa,NGA,Subnat,NGAr133,Ekiti,2016,61.1,38.9,0.22
+Nigeria,Africa,NGA,Subnat,NGAr133,Ekiti,2021,61.9,43.8,0.24
+Nigeria,Africa,NGA,Subnat,NGAr124,Enugu,2016,64.4,33.9,0.23
+Nigeria,Africa,NGA,Subnat,NGAr124,Enugu,2021,55.4,45.2,0.21
+Nigeria,Africa,NGA,Subnat,NGAr134,Gombe,2016,84.6,40,0.3
+Nigeria,Africa,NGA,Subnat,NGAr134,Gombe,2021,77.7,50.4,0.32
+Nigeria,Africa,NGA,Subnat,NGAr109,Imo,2016,62.6,36.1,0.18
+Nigeria,Africa,NGA,Subnat,NGAr109,Imo,2021,57.9,37.4,0.19
+Nigeria,Africa,NGA,Subnat,NGAr125,Jigawa,2016,90.4,41.4,0.32
+Nigeria,Africa,NGA,Subnat,NGAr125,Jigawa,2021,90.5,53.3,0.29
+Nigeria,Africa,NGA,Subnat,NGAr110,Kaduna,2016,72.5,43.3,0.25
+Nigeria,Africa,NGA,Subnat,NGAr110,Kaduna,2021,65.7,48.7,0.23
+Nigeria,Africa,NGA,Subnat,NGAr111,Kano,2016,79.7,43.5,0.32
+Nigeria,Africa,NGA,Subnat,NGAr111,Kano,2021,73.2,51.8,0.3
+Nigeria,Africa,NGA,Subnat,NGAr112,Katsina,2016,87.9,42.9,0.29
+Nigeria,Africa,NGA,Subnat,NGAr112,Katsina,2021,86,53.3,0.32
+Nigeria,Africa,NGA,Subnat,NGAr126,Kebbi,2016,90.9,41,0.31
+Nigeria,Africa,NGA,Subnat,NGAr126,Kebbi,2021,87.4,52.1,0.33
+Nigeria,Africa,NGA,Subnat,NGAr127,Kogi,2016,71.1,38.7,0.25
+Nigeria,Africa,NGA,Subnat,NGAr127,Kogi,2021,66.4,44.8,0.24
+Nigeria,Africa,NGA,Subnat,NGAr113,Kwara,2016,64.8,39.4,0.23
+Nigeria,Africa,NGA,Subnat,NGAr113,Kwara,2021,61.6,48.7,0.23
+Nigeria,Africa,NGA,Subnat,NGAr114,Lagos,2016,50.3,34.7,0.16
+Nigeria,Africa,NGA,Subnat,NGAr114,Lagos,2021,48.3,36.5,0.14
+Nigeria,Africa,NGA,Subnat,NGAr135,Nassarawa,2016,73.6,45,0.23
+Nigeria,Africa,NGA,Subnat,NGAr135,Nassarawa,2021,74.1,51.7,0.26
+Nigeria,Africa,NGA,Subnat,NGAr115,Niger,2016,80.4,40.4,0.28
+Nigeria,Africa,NGA,Subnat,NGAr115,Niger,2021,73.9,46.3,0.24
+Nigeria,Africa,NGA,Subnat,NGAr116,Ogun,2016,64,33.1,0.21
+Nigeria,Africa,NGA,Subnat,NGAr116,Ogun,2021,65.5,37.7,0.29
+Nigeria,Africa,NGA,Subnat,NGAr117,Ondo,2016,65.5,37.9,0.25
+Nigeria,Africa,NGA,Subnat,NGAr117,Ondo,2021,66,43,0.25
+Nigeria,Africa,NGA,Subnat,NGAr128,Osun,2016,60.7,38.8,0.23
+Nigeria,Africa,NGA,Subnat,NGAr128,Osun,2021,59.5,42.8,0.21
+Nigeria,Africa,NGA,Subnat,NGAr118,Oyo,2016,62.8,36.5,0.23
+Nigeria,Africa,NGA,Subnat,NGAr118,Oyo,2021,61.6,37.3,0.26
+Nigeria,Africa,NGA,Subnat,NGAr119,Plateau,2016,75.5,38.2,0.29
+Nigeria,Africa,NGA,Subnat,NGAr119,Plateau,2021,73.2,43.3,0.31
+Nigeria,Africa,NGA,Subnat,NGAr120,Rivers,2016,58.8,37.4,0.21
+Nigeria,Africa,NGA,Subnat,NGAr120,Rivers,2021,58.1,36.5,0.21
+Nigeria,Africa,NGA,Subnat,NGAr121,Sokoto,2016,89.8,40.4,0.33
+Nigeria,Africa,NGA,Subnat,NGAr121,Sokoto,2021,84.3,52.4,0.4
+Nigeria,Africa,NGA,Subnat,NGAr129,Taraba,2016,85.8,39.1,0.33
+Nigeria,Africa,NGA,Subnat,NGAr129,Taraba,2021,81.9,51.6,0.31
+Nigeria,Africa,NGA,Subnat,NGAr130,Yobe,2016,90.6,39.6,0.35
+Nigeria,Africa,NGA,Subnat,NGAr130,Yobe,2021,87.2,46.2,0.34
+Nigeria,Africa,NGA,Subnat,NGAr136,Zamfora,2016,90.5,36.8,0.35
+Nigeria,Africa,NGA,Subnat,NGAr136,Zamfora,2021,86.5,51.3,0.27
